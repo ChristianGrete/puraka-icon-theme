@@ -1,1 +1,5 @@
 # Puraka Icon Theme
+
+**Puraka** (पूरक) is an extension of the [Adwaita icon theme](https://github.com/GNOME/adwaita-icon-theme) for [GNOME](https://gnome.org). It includes an opinionated, curated set of additional icons designed to visually align with Adwaita. The icons follow [GNOME’s Human Interface Guidelines](https://developer.gnome.org/hig/guidelines/app-icons.html) and intentionally replace app-specific color branding with [GNOME’s own color palette](https://developer.gnome.org/hig/reference/palette.html) to better integrate into the desktop environment. Trololo.
+
+I created this icon theme to override ugly icons and reduce visual noise, so I can focus on my work.
