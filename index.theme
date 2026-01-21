@@ -4,6 +4,9 @@ Comment=An extension of the Adwaita icon theme
 Example=com.brave.Browser
 Inherits=Adwaita,AdwaitaLegacy,hicolor
 
+# Directory structure
+Directories=scalable/apps,symbolic/apps
+
 # KDE Specific Stuff
 DisplayDepth=32
 LinkOverlay=link_overlay
@@ -22,3 +25,18 @@ PanelSizes=16,22,32,48,64,72,96,128
 FollowsColorScheme=true
 
 KDE-Extensions=.svg
+
+# Directory definitions
+[scalable/apps]
+Size=scalable
+Context=Applications
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+[symbolic/apps]
+Size=scalable
+Context=Applications
+Type=Scalable
+MinSize=16
+MaxSize=512
