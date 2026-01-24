@@ -10,7 +10,7 @@
    id="svg11300"
    sodipodi:version="0.32"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   sodipodi:docname="com.domain.Application.svg"
+   sodipodi:docname="chat.delta.desktop.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
    style="display:inline;enable-background:new"
@@ -59,12 +59,12 @@
        id="linearGradient4"
        inkscape:collect="always">
       <stop
-         style="stop-color:#c0bfbc;stop-opacity:1;"
+         style="stop-color:#9a9996;stop-opacity:1;"
          offset="0"
          id="stop4" />
       <stop
-         style="stop-color:#9a9996;stop-opacity:1;"
-         offset="0.5"
+         style="stop-color:#77767b;stop-opacity:1;"
+         offset="0.60000002"
          id="stop5" />
     </linearGradient>
     <linearGradient
@@ -817,8 +817,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4165282"
-     inkscape:cx="156.21585"
-     inkscape:cy="29.174085"
+     inkscape:cx="116.48943"
+     inkscape:cy="42.416223"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -2792,7 +2792,7 @@
        inkscape:label="Redesigned App Icon">
       <path
          id="path3"
-         style="display:inline;fill:#77767b;fill-opacity:1;stroke:none;stroke-width:2.775;enable-background:new"
+         style="display:inline;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:2.775;enable-background:new"
          d="M 64 186.00391 C 35.316383 186.35295 12.050781 209.92134 12.050781 238.63086 C 12.050781 267.34037 35.316383 290.34513 64 289.99609 C 91.271915 289.88647 84.862255 274.76167 115.00781 288.76562 L 115.00781 286.76562 L 112.64062 284.81641 C 100.26995 262.54838 115.58519 258.35246 115.94922 237.36914 C 115.94922 208.65962 92.683621 185.65484 64 186.00391 z " />
       <path
          id="path5"
