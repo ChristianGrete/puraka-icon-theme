@@ -817,17 +817,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4165282"
-     inkscape:cx="116.48943"
-     inkscape:cy="42.209315"
-     inkscape:current-layer="g12"
+     inkscape:cx="111.31672"
+     inkscape:cy="67.245232"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1800"
-     inkscape:window-height="1097"
+     inkscape:window-height="1126"
      inkscape:window-x="0"
-     inkscape:window-y="44"
+     inkscape:window-y="43"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -2790,11 +2790,12 @@
     <g
        id="g12"
        inkscape:label="Redesigned App Icon"
+       transform="translate(0,1.0000007)"
        sodipodi:insensitive="true">
       <path
          id="path3"
          style="display:inline;fill:#5e5c64;fill-opacity:1;stroke:none;stroke-width:2.775;enable-background:new"
-         d="m 115.91602,235.49023 c -0.64877,14.8537 -8.82604,21.13058 -8.04102,32.3125 0.68696,-9.67971 7.82706,-16.18704 8.07422,-30.43359 0,-0.62923 -0.011,-1.25534 -0.0332,-1.87891 z m -103.843754,1.6543 c -0.01385,0.49374 -0.02149,0.98942 -0.02149,1.48633 0,28.70951 23.265602,51.71427 51.949219,51.36523 27.271915,-0.10962 20.862257,-15.23441 51.00781,-1.23047 v -2 l -2.36719,-1.94921 c -0.0303,-0.0546 -0.0598,-0.1097 -0.0898,-0.16407 C 85.195597,272.59937 90.505444,286.88955 64,286.99609 35.822206,287.33898 12.872928,265.1447 12.072266,237.14453 Z" />
+         d="m 115.91602,235.49023 c -0.64877,14.8537 -8.82604,21.13058 -8.04102,32.3125 0.68696,-9.67971 7.82706,-16.18704 8.07422,-30.43359 0,-0.62923 -0.011,-1.25534 -0.0332,-1.87891 z m -103.843754,1.6543 c -0.01385,0.49374 -0.02149,0.98942 -0.02149,1.48633 0,28.70951 23.265602,51.71427 51.949219,51.36523 27.271915,-0.10962 20.862257,-15.23441 51.007805,-1.23047 v -2 l -2.36719,-1.94921 c -0.0303,-0.0546 -0.0598,-0.1097 -0.0898,-0.16407 C 85.195597,272.59937 90.505444,286.88955 64,286.99609 35.822206,287.33898 12.872928,265.1447 12.072266,237.14453 Z" />
       <path
          id="path5"
          style="display:inline;fill:url(#linearGradient7);fill-opacity:1;stroke:none;stroke-width:2.775;enable-background:new"
