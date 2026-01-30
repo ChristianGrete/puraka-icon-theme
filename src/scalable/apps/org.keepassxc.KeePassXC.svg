@@ -1020,9 +1020,9 @@
      borderopacity="0.25490196"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.3341083"
-     inkscape:cx="94.172687"
-     inkscape:cy="69.93881"
+     inkscape:zoom="2.2394455"
+     inkscape:cx="65.86452"
+     inkscape:cy="73.678954"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -3000,8 +3000,9 @@
     <g
        id="g2"
        transform="matrix(1.038818,0,0,1.038818,-93.135927,10.10528)"
-       style="display:inline;enable-background:new"
-       inkscape:label="Redesigned App Icon">
+       style="display:none;enable-background:new"
+       inkscape:label="Redesigned App Icon"
+       sodipodi:insensitive="true">
       <g
          id="g10"
          inkscape:label="Kopf"
@@ -3064,7 +3065,7 @@
     </g>
     <path
        id="path25"
-       style="display:inline;fill:#222222;fill-opacity:1;stroke-width:0.217026;enable-background:new"
+       style="display:none;fill:#222222;fill-opacity:1;stroke-width:0.217026;enable-background:new"
        d="m 164.24413,-5.5341075 c -1.9907,0 -3.60484,1.6119356 -3.60484,3.6026355 0,1.43981685 0.8428,2.67790395 2.0625,3.252929 v 6.522629 l 1.54234,1.542612 1.54233,-1.542612 -0.0929,-1.356487 0.72443,-0.724981 -0.72443,-0.724706 1.09613,-1.096406 -1.09613,-1.096682 0.0929,-1.525291 c 1.21886,-0.57597305 2.0625,-1.81300955 2.0625,-3.251005 0,-1.9906999 -1.61413,-3.6026355 -3.60483,-3.6026355 z m 0,1.0719381 a 1.2805778,1.2654434 0 0 1 1.2806,1.2654861 1.2805778,1.2654434 0 0 1 -1.2806,1.2652113 1.2805778,1.2654434 0 0 1 -1.28061,-1.2652113 1.2805778,1.2654434 0 0 1 1.28061,-1.2654861 z m -1.02191,6.6378224 h 0.52016 v 5.148272 h -0.52016 z"
        inkscape:label="Symbolic"
        transform="matrix(1.0388179,0,0,1.0388179,-2.619737,177.99893)"
@@ -3114,5 +3115,29 @@
          d="M 2.6203015e-5,288.99999 H 128.00003"
          style="display:inline;fill:none;stroke:#62a0ea;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
     </g>
+    <g
+       id="g15"
+       transform="matrix(0.89634838,0.89634838,-0.89634838,0.89634838,117.4915,-88.66227)"
+       style="display:inline;enable-background:new"
+       inkscape:label="Rotated App Icon"
+       sodipodi:insensitive="true">
+      <path
+         id="path3"
+         style="display:inline;fill:#008000;stroke-width:0px;enable-background:new"
+         d="m 151.26416,163.54619 c -14.14612,0 -25.61694,11.45389 -25.61694,25.60001 0,14.1461 11.45013,25.553 25.59625,25.553 14.14611,0 25.63762,-11.4069 25.63762,-25.553 0,-14.14612 -11.47081,-25.60001 -25.61693,-25.60001 z m 0,9.73725 a 8.2701652,8.1724228 0 0 1 8.27074,8.17298 8.2701652,8.1724228 0 0 1 -8.27074,8.17109 8.2701652,8.1724228 0 0 1 -8.27075,-8.17109 8.2701652,8.1724228 0 0 1 8.27075,-8.17298 z"
+         inkscape:label="Kopf" />
+      <path
+         id="path9"
+         style="display:inline;isolation:isolate;fill:#999999;stroke-width:0px;enable-background:new"
+         d="m 161.80423,213.4019 c -3.22159,1.45184 -6.79684,2.25993 -10.56076,2.25993 -3.75297,0 -7.31691,-0.80288 -10.52691,-2.24676 v 44.51047 l 10.5476,10.54759 10.54759,-10.54759 -0.63549,-9.2785 4.95418,-4.95605 -4.95418,-4.95794 7.49613,-7.498 -7.49613,-7.49989 0.62985,-10.33326 z m -17.52856,5.757 h 3.55723 v 35.20753 h -3.55723 z"
+         inkscape:label="Bart"
+         transform="translate(0,0.48131627)" />
+    </g>
+    <path
+       id="path15"
+       style="display:inline;fill:#222222;fill-opacity:1;stroke-width:0.289822;enable-background:new"
+       d="m 174.33926,173.66104 c -1.87976,-1.87984 -4.92605,-1.88193 -6.80581,-0.003 -1.35956,1.35962 -1.73282,3.32464 -1.12407,5.01941 l -6.15912,6.15939 -2.6e-4,2.91316 2.91302,-2.7e-4 1.19316,-1.36867 1.36863,-5.2e-4 2.7e-4,-1.36844 2.07033,-2.5e-4 5.3e-4,-2.0707 1.52801,-1.35263 c 1.69481,0.60709 3.65953,0.2356 5.01738,-1.12231 1.87976,-1.87984 1.87769,-4.92625 -0.003,-6.80609 z m -1.01221,1.01224 a 1.7101204,1.6899094 45.106887 0 1 0.0143,2.40429 1.7101204,1.6899094 45.106887 0 1 -2.40393,-0.0145 1.7101204,1.6899094 45.106887 0 1 -0.0145,-2.40406 1.7101204,1.6899094 45.106887 0 1 2.40419,0.0143 z m -7.23284,5.30317 0.49116,0.49119 -4.86136,4.86157 -0.49116,-0.49119 z"
+       inkscape:label="Rotated Symbolic"
+       sodipodi:insensitive="true" />
   </g>
 </svg>
